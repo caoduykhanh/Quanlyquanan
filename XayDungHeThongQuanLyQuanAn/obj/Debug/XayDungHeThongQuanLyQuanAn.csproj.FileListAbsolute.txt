@@ -1,0 +1,179 @@
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe.config
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.pdb
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.AssemblyReference.cache
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.Properties.Resources.resources
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.GenerateResource.cache
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.exe
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.pdb
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmLogin.resources
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmTrangChinh.resources
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmMenu.resources
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmNhanVien.resources
+D:\Nhóm 31\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmBan.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe.config
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.dll
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmBan.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmLogin.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmMenu.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmNhanVien.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmTrangChinh.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.exe
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe.config
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.dll
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmBan.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmLogin.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmMenu.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmNhanVien.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmTrangChinh.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.exe
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.pdb
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmRegister.resources
+C:\Users\ASUS\Desktop\BaiLabPTPMUD\PROJECT\2052022\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmFood.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe.config
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.pdb
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.dll
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.dll
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.pdb
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.pdb
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.AssemblyReference.cache
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmBan.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmFood.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmLogin.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmMenu.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmNhanVien.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmRegister.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmTrangChinh.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.Properties.Resources.resources
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.GenerateResource.cache
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CopyComplete
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.exe
+D:\Nhóm Duy Khánh,Minh Quý,Kim Ngân (đề tài 31)\SOURCE\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.pdb
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe.config
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.exe
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\XayDungHeThongQuanLyQuanAn.pdb
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\BussinessLogincLayer.pdb
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmBan.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmFood.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmLogin.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmMenu.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmNhanVien.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmRegister.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmTrangChinh.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.exe
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.pdb
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\VSLangProj.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\VSLangProj80.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\VSLangProj2.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\EnvDTE.xml
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\EnvDTE80.xml
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\VSLangProj.xml
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\VSLangProj80.xml
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\VSLangProj2.xml
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.exe.config
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmReprot.resources
+C:\Users\ASUS\Desktop\Simminar\ProjectPM\QuanLyQuanAn\XayDungHeThongQuanLyQuanAn\obj\Debug\XayDungHeThongQuanLyQuanAn.FrmTable.resources
